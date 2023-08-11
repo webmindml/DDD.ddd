@@ -1,4 +1,4 @@
-# DDD.ddd
+<br />
 # DDD design parameters for ddd abstraction<br /><br />
 Domain-Driven Design (DDD) is an approach to software development focusing on creating shared understanding of the domain problem between developers and domain experts. DDD provides a set of principles and practices to help design and build complex software systems to accurately reflect the real-world domain they are intended to model. 
 
